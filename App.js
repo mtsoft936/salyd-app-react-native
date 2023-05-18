@@ -8,7 +8,7 @@ import { useFonts } from 'expo-font';
 //State
 import { GlobalProvider } from './context/GlobalState'
 
-//Screens
+//Import Screens
 import Login from './screens/Login';
 import SignUp from './screens/SignUp';
 import MainApp from './screens/MainApp';
