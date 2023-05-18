@@ -5,7 +5,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import { useFonts } from 'expo-font';
 
-//State
+//Import State
 import { GlobalProvider } from './context/GlobalState'
 
 //Import Screens
