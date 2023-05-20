@@ -36,6 +36,7 @@ const Header = ({ children, myStyle, navigation, isBack, isUser }) => {
     )
 }
 
+//style
 const styles = StyleSheet.create({
     container: {
         padding: 15,
